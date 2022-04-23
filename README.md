@@ -1,6 +1,6 @@
-![Android](https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif)
+<!-- ![Android](https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif) -->
 
-<!-- ![Android](https://media.giphy.com/media/f6Q1EjYSrpnxwQsX0b/giphy.gif) -->
+![Android](https://media.giphy.com/media/f6Q1EjYSrpnxwQsX0b/giphy.gif)
 
 <!--
 **teyepeee/teyepeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
