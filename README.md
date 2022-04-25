@@ -2,7 +2,7 @@
 
 ![Android](https://media.giphy.com/media/f6Q1EjYSrpnxwQsX0b/giphy.gif)
 
-![](https://komarev.com/ghpvc/?username=teyepeee)
+<!-- ![](https://komarev.com/ghpvc/?username=teyepeee) -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
